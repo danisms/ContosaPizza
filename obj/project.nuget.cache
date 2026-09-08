@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7F5v6KUIiKc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danism\\Documents\\BYU-Idaho\\CSE-325 - .NET - Software Development\\W.K 1\\Learning\\Study\\ContosaPizza\\ContosaPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danism\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Danism\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
