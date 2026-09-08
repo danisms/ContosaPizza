@@ -31,3 +31,4 @@ C:\Users\Danism\Documents\BYU-Idaho\CSE-325 - .NET - Software Development\W.K 1\
 C:\Users\Danism\Documents\BYU-Idaho\CSE-325 - .NET - Software Development\W.K 1\Learning\Study\ContosaPizza\obj\Debug\net10.0\ContosaPizza.pdb
 C:\Users\Danism\Documents\BYU-Idaho\CSE-325 - .NET - Software Development\W.K 1\Learning\Study\ContosaPizza\obj\Debug\net10.0\ContosaPizza.genruntimeconfig.cache
 C:\Users\Danism\Documents\BYU-Idaho\CSE-325 - .NET - Software Development\W.K 1\Learning\Study\ContosaPizza\obj\Debug\net10.0\ref\ContosaPizza.dll
+C:\Users\Danism\Documents\BYU-Idaho\CSE-325 - .NET - Software Development\W.K 1\Learning\Study\ContosaPizza\obj\Debug\net10.0\ContosaPizza.sourcelink.json
